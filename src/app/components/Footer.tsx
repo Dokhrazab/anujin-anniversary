@@ -32,7 +32,7 @@ export default function Footer() {
 
         {/* Milestone Dates */}
         <p className="font-sans text-[10px] sm:text-xs uppercase tracking-[0.25em] text-gold-accent font-semibold">
-          July 3, 2024 — July 3, 2026
+          July 4, 2024 — July 4, 2026
         </p>
 
         {/* Romantic Footer Note */}

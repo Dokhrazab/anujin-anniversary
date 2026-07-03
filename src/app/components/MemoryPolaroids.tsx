@@ -64,17 +64,17 @@ export default function MemoryPolaroids() {
   const photos = [
     {
       src: '/photo1.jpg',
-      alt: 'Sunset Beach Walk',
+      alt: 'Huulhn baby',
       caption: 'Walking hand in hand into our future',
-      date: 'Est. July 2024',
+      date: 'Est April 2026',
       rotation: -3,
       delay: 0,
     },
     {
       src: '/photo2.jpg',
-      alt: 'Cozy Morning Coffee',
-      caption: 'Quiet mornings filled with your laughter',
-      date: 'Our Warm Café Dates',
+      alt: 'Silly babynar',
+      caption: 'Joyful winter date',
+      date: 'Uvliin dilly odor',
       rotation: 2,
       delay: 0.2,
     },

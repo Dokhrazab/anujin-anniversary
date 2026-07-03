@@ -50,7 +50,7 @@ export default function HeroSection() {
           <div className="w-16 h-[1px] bg-gold-base/30 mx-auto my-6" />
 
           <p className="font-serif italic text-earth-light text-base sm:text-lg max-w-lg mx-auto leading-relaxed">
-            "A collection of thoughts, feelings, and memories from our two-year journey. Every day spent with you is a gift."
+            "Бид хоёрын дурлал дурсамжийг ертөнцийн төгсгөл хүртэл хадгалах цуглуулга Хайвт минь."
           </p>
         </motion.div>
 
